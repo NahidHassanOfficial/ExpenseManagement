@@ -24,6 +24,10 @@ This project is a simplified expense management system that allows users to mana
   - Dynamic updates of expense summaries.
 
 ---
+![image](https://github.com/user-attachments/assets/9f73a41b-9151-41ab-8eda-0adb0d06e765)
+![image](https://github.com/user-attachments/assets/48c6a08e-d852-45e2-a130-f720f2851b95)
+![image](https://github.com/user-attachments/assets/2ccf02f8-ef6b-4090-8666-cdb7d936a784)
+
 
 ## Installation and Setup
 
